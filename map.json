@@ -94,7 +94,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/LedqMXtrUCU"
+                 "value":"https:\/\/www.youtube.com\/embed\/zoUDxgMVqJE"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -112,7 +112,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/0b3IcSQStJU"
+                 "value":"https:\/\/www.youtube.com\/embed\/H8Xv9GJXscI"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -130,7 +130,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/QtVjgQ_537Q"
+                 "value":"https:\/\/www.youtube.com\/embed\/AODXnv0gPeg"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -659,11 +659,11 @@
         {
          "columns":10,
          "firstgid":3664,
-         "image":"2023-03_teambuilding.png",
+         "image":"QRcode-A.png",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
-         "name":"2023-03_teambuilding",
+         "name":"QRcode-A.png",
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
